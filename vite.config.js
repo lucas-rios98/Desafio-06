@@ -1,7 +1,4 @@
 import { resolve } from 'path'
-import { build } from 'vite'
-// vite.config.js
-
 
 export default {
     // config options
@@ -9,7 +6,7 @@ export default {
         devSourcemap: true
     },
     build: {
-      rollupOption: {
+      rollupOptions: {
         input: {
           main: resolve(__dirname, 'index.html'),
           mario_kart: resolve(__dirname, 'pages/mario_kart/index.html'),
