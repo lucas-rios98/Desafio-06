@@ -1,0 +1,45 @@
+.boton{
+    background-color: #2C8F20;
+    text-decoration: none;
+    color: #FAFAFB;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    display: inline-block;
+}
+footer {
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+    font-size: 11px;
+    font-weight: 600;
+    background-color: #E96093;
+    padding: 15px;
+    border-radius: 5px;
+}
+.marcos {
+    color: rgb(19, 18, 18); 
+    margin: auto;
+    margin-bottom: 0px;
+    border-radius: 5px;
+    width: 85%;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+
+}
+img{
+    max-width: 75%;
+}
+.general {
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    border-radius: 5px;
+    margin-bottom: 5px;
+
+}
